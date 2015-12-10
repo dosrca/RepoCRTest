@@ -12,6 +12,7 @@
 		339AB9B51C1A3A0900386EE1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 339AB9B31C1A3A0900386EE1 /* Main.storyboard */; };
 		339AB9B71C1A3A0900386EE1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 339AB9B61C1A3A0900386EE1 /* Assets.xcassets */; };
 		339AB9BA1C1A3A0900386EE1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 339AB9B81C1A3A0900386EE1 /* LaunchScreen.storyboard */; };
+		339AB9C21C1A3B8400386EE1 /* CRHelloCTRL.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339AB9C11C1A3B8400386EE1 /* CRHelloCTRL.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		339AB9B61C1A3A0900386EE1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		339AB9B91C1A3A0900386EE1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		339AB9BB1C1A3A0900386EE1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		339AB9C11C1A3B8400386EE1 /* CRHelloCTRL.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CRHelloCTRL.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				339AB9AF1C1A3A0900386EE1 /* AppDelegate.swift */,
 				339AB9B11C1A3A0900386EE1 /* ViewController.swift */,
+				339AB9C11C1A3B8400386EE1 /* CRHelloCTRL.swift */,
 				339AB9B31C1A3A0900386EE1 /* Main.storyboard */,
 				339AB9B61C1A3A0900386EE1 /* Assets.xcassets */,
 				339AB9B81C1A3A0900386EE1 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				339AB9B21C1A3A0900386EE1 /* ViewController.swift in Sources */,
 				339AB9B01C1A3A0900386EE1 /* AppDelegate.swift in Sources */,
+				339AB9C21C1A3B8400386EE1 /* CRHelloCTRL.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
